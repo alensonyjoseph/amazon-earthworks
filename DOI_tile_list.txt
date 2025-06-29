@@ -1,0 +1,6 @@
+DOIs & Tile References:
+- SRTM DEM: NASA/USGS (https://doi.org/10.5066/F7PR7TFT)
+- Sentinel-2: ESA Copernicus via AWS (https://registry.opendata.aws/sentinel-2/)
+- NASA GEDI LiDAR RH90: ORNL DAAC (https://doi.org/10.3334/ORNLDAAC/1840)
+- PeerJ ML surface: Walker et al. (https://doi.org/10.7717/peerj.15137)
+- Science earthworks: Peripato et al. (https://doi.org/10.1126/science.ade2541)
