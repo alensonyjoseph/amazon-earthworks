@@ -1,4 +1,4 @@
-# 🏆 Hidden Amazon Earthworks
+# Hidden Amazon Earthworks
 
 ## OpenAI → Z Challenge
 
@@ -6,16 +6,16 @@ We fuse **SRTM DEM terrain micro-relief**, **Sentinel-2 spectral anomalies**, an
 
 ---
 
-## 🚀 Project Highlights
+## Project Highlights
 
-* 📍 **Five new candidate earthwork sites** detected in Brazil & Bolivia, each cross-validated with DEM, NDVI, and GEDI canopy signatures.
-* 🛰️ **Based on open global satellite & LiDAR data.**
-* 🤖 **GPT-4.1 ensemble used to prioritize multi-layer anomalies.**
-* 💡 **Fully reproducible on free platforms (Kaggle, local Python).**
+* **Five new candidate earthwork sites** detected in Brazil & Bolivia, each cross-validated with DEM, NDVI, and GEDI canopy signatures.
+* **Based on open global satellite & LiDAR data.**
+* **GPT-4.1 ensemble used to prioritize multi-layer anomalies.**
+* **Fully reproducible on free platforms (Kaggle, local Python).**
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 | File                     | Purpose                                           |
 |---------------------------|--------------------------------------------------|
@@ -30,7 +30,7 @@ We fuse **SRTM DEM terrain micro-relief**, **Sentinel-2 spectral anomalies**, an
 
 ---
 
-## ⚙️ How to Reproduce
+## How to Reproduce
 
 1. **Clone or download**
     ```bash
@@ -53,7 +53,7 @@ We fuse **SRTM DEM terrain micro-relief**, **Sentinel-2 spectral anomalies**, an
 
 ---
 
-## 🌍 Data Sources
+## Data Sources
 
 * **SRTM DEM:** NASA/USGS open 30 m elevation grids (via EarthExplorer)
 * **Sentinel-2 MSI L2A:** ESA Copernicus imagery from AWS Registry
@@ -64,18 +64,18 @@ We fuse **SRTM DEM terrain micro-relief**, **Sentinel-2 spectral anomalies**, an
 
 ---
 
-## 📝 License
+## License
 
 All code, text, and figures are under:
 
 
-✅ No restrictions — reuse, adapt, or publish anywhere.
+No restrictions — reuse, adapt, or publish anywhere.
 
 ---
 
-## ✉️ Contact
+## Contact
 
 Created for the **OpenAI → Z Challenge**  
 by **Alen Sony Joseph / Team Seeker**
 
-📧 mr.alen.sony.joseph@gmail.com
+mr.alen.sony.joseph@gmail.com
